@@ -17,4 +17,5 @@ Fundamental
 Targets
 ------------
 A CMake-based buildsystem is organized as a set of high-level logical targets. Each target corresponds to an executable or library, or is a custom target containing custom commands.
+
 Any target has a collection of properties, which define how the build artifact should be produced and how it should be used by other dependent targets in the project.
